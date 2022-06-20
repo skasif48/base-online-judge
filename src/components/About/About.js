@@ -22,7 +22,7 @@ const About = () => {
           }}
         >
           This project entitled <b>“Base Online Judge”</b> is submitted to the
-          Department of Computer Science & Engineering, Dhaka City College, Dhaka.
+          Department of Computer Science & Engineering, Jahangirnagar University.
           
           It is an Interactive Online Judging Platform. 
 

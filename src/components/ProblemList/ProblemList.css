@@ -1,0 +1,21 @@
+th,
+td {
+  text-align: center;
+}
+
+h2 {
+  padding: 1rem 0;
+}
+
+.btn-sm {
+  transition: 0.3s all ease-in-out;
+}
+
+.title {
+  color: #5a49edf5;
+  font-size: 16px;
+}
+
+.title:hover {
+  color: #2f1e44;
+}

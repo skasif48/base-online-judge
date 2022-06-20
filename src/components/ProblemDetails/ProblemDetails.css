@@ -1,0 +1,25 @@
+.content {
+  padding: 10px;
+  background-color: #000;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.list-group {
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+.list-group-item {
+  background-color: #ededed;
+}
+.badge-dark {
+  background-color: #543f6f;
+  color: #fff;
+}
+a.title {
+  color: #4d49b3;
+  padding: 0 10px;
+}
+a.title:hover {
+  color: #4d49b3;
+  text-shadow: 0px 0px 1px #302e80;
+}

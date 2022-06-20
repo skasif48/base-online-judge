@@ -1,0 +1,18 @@
+th,
+td {
+  text-align: center;
+}
+
+h2 {
+  padding: 1rem 0;
+}
+
+.accepted {
+  color: #2c9e2c;
+}
+.wa {
+  color: #f8225b;
+}
+.error {
+  color: #fc7a00;
+}

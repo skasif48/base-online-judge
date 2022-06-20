@@ -1,6 +1,8 @@
 ### Base Online Judge
 
-## Live Demo: ![Base Online Judge](https://base-online-judge.netlify.app)
+## Live Demo:
+
+https://base-online-judge.netlify.app
 
 ## Screenshots of UI:
 

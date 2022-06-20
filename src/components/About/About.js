@@ -26,7 +26,7 @@ const About = () => {
           
           It is an Interactive Online Judging Platform. 
 
-          This project is developed by,
+          This project is developed by
         </p>
       </div>
     

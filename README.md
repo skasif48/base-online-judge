@@ -26,4 +26,4 @@ https://base-online-judge.netlify.app
 
 ![All Submissions List](./docs/img/AllSubs.png)
 
-![About Us Page](./docs/img/About.png)
+![About Us Page](./docs/img/AboutUs.png)

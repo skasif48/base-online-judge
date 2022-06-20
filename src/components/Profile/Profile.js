@@ -126,7 +126,7 @@ class Profile extends React.Component {
                       {this.state.email}
                     </p>
                     <hr />
-                    <p>Final Year Student of DCC, CSE</p>
+                    <p>Final Year Student of JNU, CSE</p>
                     <button className="btn btn-style">Edit Profile </button>
                   </div>
                 </div>

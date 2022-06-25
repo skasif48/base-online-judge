@@ -2,7 +2,7 @@
 
 ## Live Demo:
 
-https://base-online-judge.netlify.app
+https://base-online-judge.web.app/
 
 ## Screenshots of UI:
 

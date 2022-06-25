@@ -30,11 +30,13 @@ const Home = () => {
   return (
     <>
       <div className={classes.hero}>
+        
         <div className={classes.heroText}>
-          <h1 style={{ fontSize: "4rem" }}>Base Online Judge</h1>
+          <h1 style={{ fontSize: "4rem" }} id="banner-header">Base Online Judge</h1>
           <h2 style={{ fontSize: "2rem" }}>
             Welcome to an Open Source Online Judge
           </h2>
+          
 
           <Image
             src="../assets/hero.png"
